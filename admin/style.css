@@ -1,0 +1,18 @@
+td {
+        text-align: center;        
+        border: 1px solid green;
+        font-family: verdana;
+        padding: 3px 5px;
+    }
+    a {
+        text-decoration: none;
+        color: green;
+    }
+    a:hover {
+        color: deeppink;
+    }
+    .title {
+        background-color: green;
+        color: white;
+        font-weight: bold;
+    }
